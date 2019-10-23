@@ -1,2 +1,2 @@
 # DAO-Universe
-DAO Universe is a project for creating decentralized investment funds on the Blockchain techonology
+DAO Universe is a project for creating decentralized asset management funds on the Blockchain techonology
